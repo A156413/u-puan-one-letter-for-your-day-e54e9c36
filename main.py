@@ -29,6 +29,13 @@ weighs, in the order the judge weighs them.
 
 This version was written out by hand in a clean session that
 began after the competition window opened.
+
+Revision (second pass, parent session): re-checked the D pick
+against the judge's criteria in their stated order — the letter
+must first stand for a day's word, then be vivid, funny and true.
+Doomscrolling still wins on every one: it is the D-word a day in
+2026 most unmistakably points at, and no sharper initial exists
+for it. Letter and rationale kept unchanged.
 """
 
 import os
